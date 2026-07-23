@@ -13,8 +13,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-<a href="URL_DEL_LINK_PARA_C"><img src="https://img.shields.io/badge/C-0e0e0e?style=flat&logo=c&logoColor=white" alt="C" style="display:inline-block; margin:0; border-top-right-radius:0; border-bottom-right-radius:0;"></a><a href="URL_DEL_LINK_PARA_DOCUMENTACION"><img src="https://img.shields.io/badge/DOCUMENTACION-blue?style=flat" alt="Documentacion" style="display:inline-block; margin:0; border-top-left-radius:0; border-bottom-left-radius:0;"></a>
-
+<a href="LINK_DE_C"><img src="https://img.shields.io/badge/C-1f1f1f?style=flat&logo=c&logoColor=white"></a><a href="LINK_DE_DOCS"><img src="https://img.shields.io/badge/DOCUMENTACION-007ec6?style=flat"></a>
 # Tech Stack:
 ### 💻 Lenguajes de programación
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort=) [![DOC](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170)
