@@ -17,7 +17,8 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 # Tech Stack:
 ### 💻 Lenguajes de programación
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort=) [![DOC](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170)
+<a href="LINK_DE_C"><img src="https://img.shields.io/badge/C-1f1f1f?style=flat-square&logo=c&logoColor=white"></a><a href="[HOLA](https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170)"><img src="https://img.shields.io/badge/DOCUMENTACION-007ec6?style=flat-square"></a>
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort=)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
