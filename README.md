@@ -12,6 +12,8 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
    
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+</br>
+![Badge Moderno](https://img.shields.io/badge/PROYECTO-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 # Tech Stack:
 ### 💻 Lenguajes de programación
