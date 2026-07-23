@@ -3,7 +3,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 
 # GitHub Stats:
-<div width="50%" heigth="50%">
+<div >
 
    ![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
 
