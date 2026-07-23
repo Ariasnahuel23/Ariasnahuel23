@@ -15,7 +15,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 </br>
 
-![Badge Moderno](https://img.shields.io/badge/PROYECTO-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![Badge Moderno](https://img.shields.io/badge/PROYECTO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://img.shields.io/badge/GitHub-Repositorio-24292e?style=for-the-badge&logo=github&logoColor=white)
 
 # Tech Stack:
 ### 💻 Lenguajes de programación
