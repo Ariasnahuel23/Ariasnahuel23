@@ -16,6 +16,7 @@ ejemplo
 </br>
 <a href="LINK_DE_C"><img src="https://img.shields.io/badge/C-1f1f1f?style=flat-square&logo=c&logoColor=white"></a><a href="LINK_DE_DOCS"><img src="https://img.shields.io/badge/DOCUMENTACION-007ec6?style=flat-square"></a>
 <a href="LINK_DE_LENGUAJE"><img src="https://img.shields.io/badge/LENGUAJE-1f1f1f?style=flat-square&logo=c&logoColor=white"></a><a href="LINK_DE_DOCS"><img src="https://img.shields.io/badge/DOCUMENTACION-007ec6?style=flat-square"></a>
+<a href="LINK_DE_LENGUAJE"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a><a href="LINK_DE_DOCS"><img src="https://img.shields.io/badge/DOCUMENTACION-007ec6?style=flat-square"></a>
 
 # Tech Stack:
 ### 💻 Lenguajes de programación
