@@ -4,8 +4,8 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
 <div style="width: 300px; margin: 0 auto;">
-![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
-<div/>
+  ![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
+</div>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Tech Stack:
