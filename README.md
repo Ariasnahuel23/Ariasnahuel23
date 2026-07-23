@@ -17,6 +17,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 # Tech Stack:
 ### 💻 Lenguajes de programación
+VERIFICAR
 <a href="[LINK_DE_C](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort=)">
    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 </a><a href="[HOLA](https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170)">
