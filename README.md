@@ -7,9 +7,13 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
    ![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
    ![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+<div align="center">
+   
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
 
 # Tech Stack:
 ### 💻 Lenguajes de programación
