@@ -12,20 +12,13 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
    
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
-
+ejemplo
+</br>
 <a href="LINK_DE_C"><img src="https://img.shields.io/badge/C-1f1f1f?style=flat-square&logo=c&logoColor=white"></a><a href="LINK_DE_DOCS"><img src="https://img.shields.io/badge/DOCUMENTACION-007ec6?style=flat-square"></a>
+<a href="LINK_DE_LENGUAJE"><img src="https://img.shields.io/badge/LENGUAJE-1f1f1f?style=flat-square&logo=c&logoColor=white"></a><a href="LINK_DE_DOCS"><img src="https://img.shields.io/badge/DOCUMENTACION-007ec6?style=flat-square"></a>
 
 # Tech Stack:
 ### 💻 Lenguajes de programación
-VERIFICAR
-<a href="[LINK_DE_C](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort=)">
-   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-</a><a href="[HOLA](https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170)">
-   <img src="https://img.shields.io/badge/DOCUMENTACION-007ec6?style=flat-square">
-</a>
-
-</br>
-
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort=)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)]([TITULO1]https://www.youtube.com/watch?v=4xcPFQjQ9oU)[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)]([TITULO1]https://www.twitch.tv/?lang=es-ES)
