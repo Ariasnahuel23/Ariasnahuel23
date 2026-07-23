@@ -20,7 +20,6 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 <h3>altura capo alta</h3>
 <a href="LINK_DE_LENGUAJE"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a><a href="LINK_DE_DOCS"><img src="https://img.shields.io/badge/DOCUMENTACION-007ec6?style=for-the-badge"></a>
 <h3>Definitivo</h3>
-<a href="LINK_DE_LENGUAJE"><img src="https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a><a href="https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort="><img src="[https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)"></a>
 <a href="LINK_DE_LENGUAJE"><img src="https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a><a href="https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort="><img src=" https://img.shields.io/badge/github-repo-blue?logo=github"></a>
 
 # Tech Stack:
