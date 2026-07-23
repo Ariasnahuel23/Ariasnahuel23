@@ -3,21 +3,10 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 
 # GitHub Stats:
-<div class="objeto-completo">
-  
-  ![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-</div>
-<div class="objeto-completo">
-  
-  ![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
-</div>
 
-<style>
-  .objeto-completo {
-    scale: 0.2; /* Escala todo el bloque al 120% */
-    transform-origin: top left; /* Define desde qué punto se escala */
-  }
-</style>
+  ![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
+
 
 <div align="center">
   
