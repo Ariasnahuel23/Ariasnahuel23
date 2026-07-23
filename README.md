@@ -2,10 +2,11 @@
 Soy desarrollador web orientado a la creación de soluciones digitales escalables, seguras y de alto rendimiento. Mi enfoque se centra en desarrollar aplicaciones que combinen una arquitectura sólida, código mantenible y una experiencia de usuario intuitiva, utilizando tecnologías modernas y siguiendo las mejores prácticas de la industria. Valoro la calidad del software, la colaboración efectiva y la mejora continua, adaptándome a los desafíos de cada proyecto con una mentalidad analítica y orientada a resultados. Comprometido con el aprendizaje constante y la innovación, busco aportar valor mediante el desarrollo de productos confiables, eficientes y alineados con los objetivos de negocio.<br>
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+
 <div align="right">
-  
-![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
+
+  ![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
 </div>
 <div align="center">
   
