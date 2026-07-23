@@ -13,7 +13,9 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-[![Estado](https://img.shields.io/badge/estado-activo-success)](https://tu-sitio-web.com) [![Documentación](https://img.shields.io/badge/docs-ver-blue)](https://tu-documentacion.com)
+<p align="left">
+  <a href="URL_DEL_PRIMER_ENLACE"><img src="https://img.shields.io/badge/IZQUIERDA-texto-blue?style=flat-square" style="margin-right: 0px;" alt="Parte 1"></a><a href="URL_DEL_SEGUNDO_ENLACE"><img src="https://img.shields.io/badge/DERECHA-texto-green?style=flat-square" style="margin-left: -4px;" alt="Parte 2"></a>
+</p>
 
 # Tech Stack:
 ### 💻 Lenguajes de programación
