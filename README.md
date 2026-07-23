@@ -13,6 +13,10 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
+</br>
+
+[![Badge Moderno](https://img.shields.io/badge/PROYECTO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://img.shields.io/badge/GitHub-Repositorio-24292e?style=for-the-badge&logo=github&logoColor=white)
+
 # Tech Stack:
 ### 💻 Lenguajes de programación
 <a href="https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170"><img src="https://img.shields.io/badge/DOC-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a><a href="https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort="><img src="https://img.shields.io/badge/PROYECTOS-24292e?style=for-the-badge&logo=github&logoColor=white"></a>
