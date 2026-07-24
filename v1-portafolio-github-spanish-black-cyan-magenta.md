@@ -1,8 +1,8 @@
-# Welcome!
+# Bienbenidos!
 Software Engineer especializado en autoaprendizaje y adaptabilidad técnica con demostrada capacidad de dominar nuevas tecnologías, paradigmas y dominios complejos de manera autónoma. Profesional que ha construido expertise profunda a través de investigación independiente, experimentación práctica y resolución sistemática de problemas. Fuerte capacidad para identificar brechas de conocimiento, diseñar rutas de aprendizaje personalizadas y traducir conocimiento adquirido en soluciones técnicas de calidad empresarial. Atraído por desafíos complejos que requieren pensamiento crítico y aprendizaje continuo.
 <br>
 
-# GitHub Stats:
+# Estaditicas GitHub:
 
 <div align="center">
   
@@ -117,8 +117,8 @@ Software Engineer especializado en autoaprendizaje y adaptabilidad técnica con 
 ![Portfolio](https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=firefox&logoColor=cyan)
 ![Airbnb](https://img.shields.io/badge/airbnb-%2320232a.svg?style=for-the-badge&logo=Airbnb&logoColor=cyan)
 
-## Socials:
-[![email](https://img.shields.io/badge/email-D14836?logo=gmail&logoColor=cyan)](mailto:ariasnahuel2323@gmail.com)
+## Social:
+[![email](https://img.shields.io/badge/email-%2320232a?logo=gmail&logoColor=cyan)](mailto:ariasnahuel2323@gmail.com)
 
 ---
 
