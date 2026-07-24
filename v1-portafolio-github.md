@@ -1,7 +1,7 @@
 # Welcome!
 Soy desarrollador web orientado a la creación de soluciones digitales escalables, seguras y de alto rendimiento. Mi enfoque se centra en desarrollar aplicaciones que combinen una arquitectura sólida, código mantenible y una experiencia de usuario intuitiva, utilizando tecnologías modernas y siguiendo las mejores prácticas de la industria. Valoro la calidad del software, la colaboración efectiva y la mejora continua, adaptándome a los desafíos de cada proyecto con una mentalidad analítica y orientada a resultados. Comprometido con el aprendizaje constante y la innovación, busco aportar valor mediante el desarrollo de productos confiables, eficientes y alineados con los objetivos de negocio.<br>
 
-
+![](https://img.shields.io/badge/selenium-333333?style=for-the-badge&logo=selenium&logoColor=43B02A)
 # GitHub Stats:
 <div align="center">
 
