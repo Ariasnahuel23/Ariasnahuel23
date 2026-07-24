@@ -52,27 +52,27 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Strapi](https://img.shields.io/badge/strapi-%2320232a.svg?style=for-the-badge&logo=strapi&logoColor=%232E7EEA)
 
 ### ⚡ Runtime y Build Tools
-![Node Js](https://img.shields.io/badge/node_js-6DA55F?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Deno Js](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=000000)
-![Bun](https://img.shields.io/badge/bun-%2320232a.svg?style=for-the-badge&logo=bun&logoColor=%23000000)
+![Node JS](https://img.shields.io/badge/node_js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Deno Js](https://img.shields.io/badge/deno%20js-%2320232a?style=for-the-badge&logo=deno&logoColor=white)
+![Bun](https://img.shields.io/badge/bun-%2320232a.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF)
-![Rollup Js](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=ef3335)
-![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=143055)
-![Babel](https://img.shields.io/badge/babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=F9DC3e)
+![Rollup Js](https://img.shields.io/badge/RollupJS-%2320232a?style=for-the-badge&logo=rollup.js&logoColor=ef3335)
+![Nx](https://img.shields.io/badge/nx-%2320232a?style=for-the-badge&logo=nx&logoColor=143055)
+![Babel](https://img.shields.io/badge/babel-%2320232a?style=for-the-badge&logo=babel&logoColor=F9DC3e)
 
 ### 📦 Gestión de paquetes
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=%23CB3837)
-![PNPM](https://img.shields.io/badge/pnpm-%2320232a.svg?style=for-the-badge&logo=pnpm&logoColor=%234a4a4a)
+![PNPM](https://img.shields.io/badge/pnpm-%2320232a.svg?style=for-the-badge&logo=pnpm&logoColor=f9ad00)
 
 ### 🗄️ Bases de datos y ORM
 ![SQLite](https://img.shields.io/badge/sqlite-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=%2307405e)
 ![Postgres](https://img.shields.io/badge/postgres-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)
 ![Redis](https://img.shields.io/badge/redis-%2320232a.svg?style=for-the-badge&logo=redis&logoColor=%23DD0031)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=3982CE)
+![Prisma](https://img.shields.io/badge/Prisma-%2320232a?style=for-the-badge&logo=Prisma&logoColor=01344b)
 
 ### ☁️ Backend as a Service
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=a08021)
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Firebase](https://img.shields.io/badge/firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/supabase-%2320232a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ### 🖥️ Desktop
 ![Electron.js](https://img.shields.io/badge/electron-191970?style=for-the-badge&logo=Electron&logoColor=191970)
