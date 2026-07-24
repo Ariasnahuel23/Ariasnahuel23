@@ -21,7 +21,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 [![Rust](https://img.shields.io/badge/rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=ef6b01)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=rust&s323232ort=)
 ![Go](https://img.shields.io/badge/go-%2320232a.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8)
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
-![Lua](https://img.shields.io/badge/lua-%2320232a.svg?style=for-the-badge&logo=lua&logoColor=%232C2D72)
+![Lua](https://img.shields.io/badge/lua-%2320232a.svg?style=for-the-badge&logo=lua&logoColor=604dff)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%2320232a.svg?style=for-the-badge&logo=assemblyscript&logoColor=%23000000)
 
 ### 🌐 Desarrollo Web
@@ -71,11 +71,11 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Prisma](https://img.shields.io/badge/Prisma-%2320232a?style=for-the-badge&logo=Prisma&logoColor=026997)
 
 ### ☁️ Backend as a Service
-![Firebase](https://img.shields.io/badge/firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=fc6d26)
+![Firebase](https://img.shields.io/badge/firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=ffe500)
 ![Supabase](https://img.shields.io/badge/supabase-%2320232a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ### 🖥️ Desktop
-![Electron.js](https://img.shields.io/badge/electron-%2320232a?style=for-the-badge&logo=Electron&logoColor=191970)
+![Electron.js](https://img.shields.io/badge/electron-%2320232a?style=for-the-badge&logo=Electron&logoColor=9feaf9)
 ![Tauri](https://img.shields.io/badge/tauri-%2320232a.svg?style=for-the-badge&logo=tauri&logoColor=%2324C8DB)
 
 ### 🔐 API y Autenticación
@@ -107,15 +107,15 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Grafana](https://img.shields.io/badge/grafana-%2320232a.svg?style=for-the-badge&logo=grafana&logoColor=%23F46800)
 
 ### 📚 Ciencia de Datos
-![Pandas](https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%23150458)
+![Pandas](https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=604dff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%2320232a.svg?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00)
 
 ### 📝 Otros
 ![RxJS](https://img.shields.io/badge/rxjs-%2320232a.svg?style=for-the-badge&logo=reactivex&logoColor=%23B7178C)
-![Nodemon](https://img.shields.io/badge/nodemon-%2320232a.svg?style=for-the-badge&logo=nodemon&logoColor=%23323330)
+![Nodemon](https://img.shields.io/badge/nodemon-%2320232a.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![LaTeX](https://img.shields.io/badge/latex-%2320232a.svg?style=for-the-badge&logo=latex&logoColor=%23008080)
 ![Canva](https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
-![Notion](https://img.shields.io/badge/notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=%23000000)
+![Notion](https://img.shields.io/badge/notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=firefox&logoColor=%23000000)
 ![Airbnb](https://img.shields.io/badge/airbnb-%2320232a.svg?style=for-the-badge&logo=Airbnb&logoColor=%23ff5a5f)
 
