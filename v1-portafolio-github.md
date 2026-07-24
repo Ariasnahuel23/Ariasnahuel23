@@ -3,6 +3,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 ![](https://img.shields.io/badge/selenium-333333?style=for-the-badge&logo=selenium&logoColor=43B02A)
 ![](https://img.shields.io/badge/selenium-dddddd?style=for-the-badge&logo=selenium&logoColor=black)
+![](https://img.shields.io/badge/selenium-4cd137?style=for-the-badge&logo=selenium&logoColor=black)
 # GitHub Stats:
 <div align="center">
 
