@@ -18,7 +18,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 [![C](https://img.shields.io/badge/c-%2320232a.svg?style=for-the-badge&logo=c&logoColor=%2300599C)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort=)
 ![C++](https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C)
 ![C#](https://img.shields.io/badge/c%23-%2320232a.svg?style=for-the-badge&logo=csharp)
-[![Rust](https://img.shields.io/badge/rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=%23000000)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=rust&s323232ort=)
+[![Rust](https://img.shields.io/badge/rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=ef6b01)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=rust&s323232ort=)
 ![Go](https://img.shields.io/badge/go-%2320232a.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8)
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 ![Lua](https://img.shields.io/badge/lua-%2320232a.svg?style=for-the-badge&logo=lua&logoColor=%232C2D72)
@@ -33,14 +33,14 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/react_js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=CA4245)
-![Next Js](https://img.shields.io/badge/next_js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-%2320232a?style=for-the-badge&logo=react-router&logoColor=CA4245)
+![Next Js](https://img.shields.io/badge/next_js-%2320232a?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)
 ![Angular.js](https://img.shields.io/badge/angular.js-%2320232a.svg?style=for-the-badge&logo=angularjs&logoColor=%23E23237)
 ![Solid Js](https://img.shields.io/badge/solid_js-2c4f7c?style=for-the-badge&logo=solid&logoColor=2c4f7c)
 ![Astro](https://img.shields.io/badge/astro-%2320232a.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-%2320232a.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Three Js](https://img.shields.io/badge/three_js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Three Js](https://img.shields.io/badge/three_js-%2320232a?style=for-the-badge&logo=three.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)
 
 ### 🖥️ Backend
