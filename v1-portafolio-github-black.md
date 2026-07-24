@@ -1,18 +1,6 @@
 # Welcome!
 Soy desarrollador web orientado a la creación de soluciones digitales escalables, seguras y de alto rendimiento. Mi enfoque se centra en desarrollar aplicaciones que combinen una arquitectura sólida, código mantenible y una experiencia de usuario intuitiva, utilizando tecnologías modernas y siguiendo las mejores prácticas de la industria. Valoro la calidad del software, la colaboración efectiva y la mejora continua, adaptándome a los desafíos de cada proyecto con una mentalidad analítica y orientada a resultados. Comprometido con el aprendizaje constante y la innovación, busco aportar valor mediante el desarrollo de productos confiables, eficientes y alineados con los objetivos de negocio.<br>
 
-
-# GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
-</div>
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
-
 # Tech Stack:
 ### 💻 Lenguajes de programación
 [![C](https://img.shields.io/badge/c-%2320232a.svg?style=for-the-badge&logo=c&logoColor=%2300599C)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort=)
@@ -116,8 +104,19 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![LaTeX](https://img.shields.io/badge/latex-%2320232a.svg?style=for-the-badge&logo=latex&logoColor=%23008080)
 ![Canva](https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
 ![Notion](https://img.shields.io/badge/notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Portfolio](https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=firefox&logoColor=%23000000)
+![Portfolio](https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=firefox&logoColor=white)
 ![Airbnb](https://img.shields.io/badge/airbnb-%2320232a.svg?style=for-the-badge&logo=Airbnb&logoColor=%23ff5a5f)
+
+# GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
+</div>
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ## Socials:
 [![email](https://img.shields.io/badge/email-D14836?logo=gmail&logoColor=white)](mailto:ariasnahuel2323@gmail.com)
