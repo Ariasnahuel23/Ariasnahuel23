@@ -45,7 +45,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### 🖥️ Backend
-![Node JS](https://img.shields.io/badge/node_js-black?style=for-the-badge&logo=node.js&logoColor=black)
+![Node JS](https://img.shields.io/badge/node_js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express_js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nest_js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -53,7 +53,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### ⚡ Runtime y Build Tools
-![Node Js](https://img.shields.io/badge/node_js-black?style=for-the-badge&logo=node.js&logoColor=black)
+![Node Js](https://img.shields.io/badge/node_js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
 ![Deno Js](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -76,7 +76,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🖥️ Desktop
-![Electron.js](https://img.shields.io/badge/electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Electron Js](https://img.shields.io/badge/electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 
 ### 🔐 API y Autenticación
