@@ -25,10 +25,10 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=%23000000)
 
 ### 🌐 Desarrollo Web
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=html&sort=)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=css&sort=)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=javascript&sort=)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=html&sort=)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=css&sort=)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=javascript&sort=)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=typescript&sort=)
 
 ### ⚛️ Frontend
@@ -39,9 +39,9 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=%23E23237)
 ![Solid Js](https://img.shields.io/badge/solid_js-2c4f7c?style=for-the-badge&logo=solid&logoColor=2c4f7c)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=%232C2052)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=%20ui-161618)
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=161618)
 ![Three Js](https://img.shields.io/badge/three_js-black?style=for-the-badge&logo=three.js&logoColor=black)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=230769AD)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)
 
 ### 🖥️ Backend
 ![Node JS](https://img.shields.io/badge/node_js-6DA55F?style=for-the-badge&logo=node.js&logoColor=6DA55F)
@@ -54,7 +54,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ### ⚡ Runtime y Build Tools
 ![Node Js](https://img.shields.io/badge/node_js-6DA55F?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![Deno Js](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=000000)
-![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=%23000000.)
+![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=%23000000)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF)
 ![Rollup Js](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=ef3335)
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=143055)
@@ -80,7 +80,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 ### 🔐 API y Autenticación
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=%23Clojure)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=%13323445)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ### 🧪 Testing
@@ -90,7 +90,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=%23E5E5E5)
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=%232EAD3)
 ![Puppeteer](https://img.shields.io/badge/puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=%2340B5A4)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=%43B02A)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=%238D674)
 
 ### ✨ Calidad de código
@@ -102,8 +102,8 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=%23121011)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=%23181717)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=%23181717)
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=%23326ce5)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326ce5)
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=%23F46800)
 
 ### 📚 Ciencia de Datos
@@ -112,10 +112,10 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 ### 📝 Otros
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=%23B7178C)
-![Nodemon](https://img.shields.io/badge/nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%%23323330)
+![Nodemon](https://img.shields.io/badge/nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%23323330)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=%23008080)
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=-%23000000)
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=%23000000)
 ![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23000000)
 ![Airbnb](https://img.shields.io/badge/airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=%23ff5a5f)
 
