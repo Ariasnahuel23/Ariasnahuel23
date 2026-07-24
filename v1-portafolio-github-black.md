@@ -68,7 +68,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![SQLite](https://img.shields.io/badge/sqlite-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=%2307405e)
 ![Postgres](https://img.shields.io/badge/postgres-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)
 ![Redis](https://img.shields.io/badge/redis-%2320232a.svg?style=for-the-badge&logo=redis&logoColor=%23DD0031)
-![Prisma](https://img.shields.io/badge/Prisma-%2320232a?style=for-the-badge&logo=Prisma&logoColor=01344b)
+![Prisma](https://img.shields.io/badge/Prisma-%2320232a?style=for-the-badge&logo=Prisma&logoColor=026997)
 
 ### ☁️ Backend as a Service
 ![Firebase](https://img.shields.io/badge/firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -80,8 +80,8 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 ### 🔐 API y Autenticación
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=%13323445)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Swagger](https://img.shields.io/badge/-Swagger-%2320232a?style=for-the-badge&logo=swagger&logoColor=%13323445)
+![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ### 🧪 Testing
 ![Vitest](https://img.shields.io/badge/-vitest-%2320232a?style=for-the-badge&logo=vitest&logoColor=FCC72B)
