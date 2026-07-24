@@ -1,5 +1,6 @@
 # Welcome!
-Soy desarrollador web orientado a la creación de soluciones digitales escalables, seguras y de alto rendimiento. Mi enfoque se centra en desarrollar aplicaciones que combinen una arquitectura sólida, código mantenible y una experiencia de usuario intuitiva, utilizando tecnologías modernas y siguiendo las mejores prácticas de la industria. Valoro la calidad del software, la colaboración efectiva y la mejora continua, adaptándome a los desafíos de cada proyecto con una mentalidad analítica y orientada a resultados. Comprometido con el aprendizaje constante y la innovación, busco aportar valor mediante el desarrollo de productos confiables, eficientes y alineados con los objetivos de negocio.<br>
+Senior Full-Stack Software Engineer y Solutions Architect con trayectoria consolidada en diseño, arquitectura e implementación de sistemas de misión crítica. Especialista en transformación digital de procesos complejos mediante soluciones tecnológicas escalables, con experiencia probada en liderar proyectos desde conceptualización hasta producción en entornos empresariales exigentes. Capacidad demostrada para traducir requerimientos de negocio en arquitecturas técnicas robustas, optimizar rendimiento bajo restricciones críticas y mentorizar equipos multidisciplinarios.
+<br>
 
 # Tech Stack:
 ### Lenguajes de programación
@@ -122,6 +123,5 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 [![email](https://img.shields.io/badge/email-D14836?logo=gmail&logoColor=white)](mailto:ariasnahuel2323@gmail.com)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ariasnahuel23&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
