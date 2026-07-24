@@ -1,5 +1,5 @@
 # Welcome!
-Senior Full-Stack Software Engineer y Solutions Architect con trayectoria consolidada en diseño, arquitectura e implementación de sistemas de misión crítica. Especialista en transformación digital de procesos complejos mediante soluciones tecnológicas escalables, con experiencia probada en liderar proyectos desde conceptualización hasta producción en entornos empresariales exigentes. Capacidad demostrada para traducir requerimientos de negocio en arquitecturas técnicas robustas, optimizar rendimiento bajo restricciones críticas y mentorizar equipos multidisciplinarios.
+Software Engineer especializado en autoaprendizaje y adaptabilidad técnica con demostrada capacidad de dominar nuevas tecnologías, paradigmas y dominios complejos de manera autónoma. Profesional que ha construido expertise profunda a través de investigación independiente, experimentación práctica y resolución sistemática de problemas. Fuerte capacidad para identificar brechas de conocimiento, diseñar rutas de aprendizaje personalizadas y traducir conocimiento adquirido en soluciones técnicas de calidad empresarial. Atraído por desafíos complejos que requieren pensamiento crítico y aprendizaje continuo.
 <br>
 
 # GitHub Stats:
