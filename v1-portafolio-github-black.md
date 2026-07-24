@@ -71,7 +71,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Prisma](https://img.shields.io/badge/Prisma-%2320232a?style=for-the-badge&logo=Prisma&logoColor=026997)
 
 ### ☁️ Backend as a Service
-![Firebase](https://img.shields.io/badge/firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Firebase](https://img.shields.io/badge/firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=fc6d26)
 ![Supabase](https://img.shields.io/badge/supabase-%2320232a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ### 🖥️ Desktop
@@ -100,8 +100,8 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 ### 📊 DevOps y Observabilidad
 ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
-![GitHub](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%23121011)
-![GitLab](https://img.shields.io/badge/gitlab-%2320232a.svg?style=for-the-badge&logo=gitlab&logoColor=%23181717)
+![GitHub](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%2320232a.svg?style=for-the-badge&logo=gitlab&logoColor=fc6d26)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%2320232a.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326ce5)
 ![Prometheus](https://img.shields.io/badge/prometheus-%2320232a?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/grafana-%2320232a.svg?style=for-the-badge&logo=grafana&logoColor=%23F46800)
