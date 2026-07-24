@@ -53,7 +53,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### ⚡ Runtime y Build Tools
-![Node Js](https://img.shields.io/badge/node_js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node Js](https://img.shields.io/badge/node_js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
 ![Deno Js](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
