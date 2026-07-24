@@ -84,14 +84,14 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ### 🧪 Testing
-![Vitest](https://img.shields.io/badge/-vitest-252529?style=for-the-badge&logo=vitest&logoColor=252529)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=%23C21325)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=%23E33332)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=%23E5E5E5)
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=%232EAD3)
+![Vitest](https://img.shields.io/badge/-vitest-%2320232a?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+![Jest](https://img.shields.io/badge/-jest-%2320232a?style=for-the-badge&logo=jest&logoColor=%23C21325)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%2320232a?style=for-the-badge&logo=testing-library&logoColor=%23E33332)
+![Cypress](https://img.shields.io/badge/-cypress-%2320232a?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Playwright](https://img.shields.io/badge/-playwright-%2320232a?style=for-the-badge&logo=playwright&logoColor=%232EAD3)
 ![Puppeteer](https://img.shields.io/badge/puppeteer-%2320232a.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=%2340B5A4)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=%238D674)
+![Selenium](https://img.shields.io/badge/-selenium-%2320232a?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Mocha](https://img.shields.io/badge/-mocha-%2320232a?style=for-the-badge&logo=mocha&logoColor=%238D674)
 
 ### ✨ Calidad de código
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=4B3263)
