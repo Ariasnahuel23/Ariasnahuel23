@@ -22,7 +22,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Go](https://img.shields.io/badge/go-%2320232a.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8)
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 ![Lua](https://img.shields.io/badge/lua-%2320232a.svg?style=for-the-badge&logo=lua&logoColor=604dff)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%2320232a.svg?style=for-the-badge&logo=assemblyscript&logoColor=%23000000)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%2320232a.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### 🌐 Desarrollo Web
 [![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=html&sort=)
@@ -37,7 +37,7 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Next Js](https://img.shields.io/badge/next_js-%2320232a?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)
 ![Angular.js](https://img.shields.io/badge/angular.js-%2320232a.svg?style=for-the-badge&logo=angularjs&logoColor=%23E23237)
-![Solid Js](https://img.shields.io/badge/solid_js-%2320232a?style=for-the-badge&logo=solid&logoColor=2c4f7c)
+![Solid Js](https://img.shields.io/badge/solid_js-%2320232a?style=for-the-badge&logo=solid&logoColor=4477bb)
 ![Astro](https://img.shields.io/badge/astro-%2320232a.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-%2320232a.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Three Js](https://img.shields.io/badge/three_js-%2320232a?style=for-the-badge&logo=three.js&logoColor=white)
@@ -45,11 +45,11 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 
 ### 🖥️ Backend
 ![Node JS](https://img.shields.io/badge/node_js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Express.js](https://img.shields.io/badge/express_js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%23404d59)
+![Express.js](https://img.shields.io/badge/express_js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nest_js-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
 ![Laravel](https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%23FF2D20)
 ![Rails](https://img.shields.io/badge/rails-%2320232a.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=%23CC0000)
-![Strapi](https://img.shields.io/badge/strapi-%2320232a.svg?style=for-the-badge&logo=strapi&logoColor=%232E7EEA)
+![Strapi](https://img.shields.io/badge/strapi-%2320232a.svg?style=for-the-badge&logo=strapi&logoColor=4945ff)
 
 ### ⚡ Runtime y Build Tools
 ![Node JS](https://img.shields.io/badge/node_js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
