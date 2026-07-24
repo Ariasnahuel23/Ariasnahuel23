@@ -2,6 +2,15 @@
 Senior Full-Stack Software Engineer y Solutions Architect con trayectoria consolidada en diseño, arquitectura e implementación de sistemas de misión crítica. Especialista en transformación digital de procesos complejos mediante soluciones tecnológicas escalables, con experiencia probada en liderar proyectos desde conceptualización hasta producción en entornos empresariales exigentes. Capacidad demostrada para traducir requerimientos de negocio en arquitecturas técnicas robustas, optimizar rendimiento bajo restricciones críticas y mentorizar equipos multidisciplinarios.
 <br>
 
+# GitHub Stats:
+
+<div align="center">
+  
+  ![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariasnahuel23&bg_color=%2320232a&color=00EAD3&line=00EAD3&point=FFFFFF&area=true&area_color=00EAD3&hide_border=true"/>
+</div>
+
 # Tech Stack:
 ### Lenguajes de programación
 [![C](https://img.shields.io/badge/c-%2320232a.svg?style=for-the-badge&logo=c&logoColor=%2300599C)](https://github.com/Ariasnahuel23?tab=repositories&q=&type=&language=c&sort=)
@@ -107,20 +116,6 @@ Senior Full-Stack Software Engineer y Solutions Architect con trayectoria consol
 ![Notion](https://img.shields.io/badge/notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=firefox&logoColor=white)
 ![Airbnb](https://img.shields.io/badge/airbnb-%2320232a.svg?style=for-the-badge&logo=Airbnb&logoColor=%23ff5a5f)
-
-# GitHub Stats:
-
-<div align="center">
-  
-  ![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-  ![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
-  <div align="center">
-    
-   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariasnahuel23&bg_color=%2320232a&color=00EAD3&line=00EAD3&point=FFFFFF&area=true&area_color=00EAD3&hide_border=true"/>
-</div>
-
 
 ## Socials:
 [![email](https://img.shields.io/badge/email-D14836?logo=gmail&logoColor=white)](mailto:ariasnahuel2323@gmail.com)
