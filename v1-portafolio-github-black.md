@@ -75,11 +75,11 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Supabase](https://img.shields.io/badge/supabase-%2320232a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ### 🖥️ Desktop
-![Electron.js](https://img.shields.io/badge/electron-191970?style=for-the-badge&logo=Electron&logoColor=191970)
+![Electron.js](https://img.shields.io/badge/electron-%2320232a?style=for-the-badge&logo=Electron&logoColor=191970)
 ![Tauri](https://img.shields.io/badge/tauri-%2320232a.svg?style=for-the-badge&logo=tauri&logoColor=%2324C8DB)
 
 ### 🔐 API y Autenticación
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-%2320232a?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Swagger](https://img.shields.io/badge/-Swagger-%2320232a?style=for-the-badge&logo=swagger&logoColor=%13323445)
 ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
@@ -94,16 +94,16 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Mocha](https://img.shields.io/badge/-mocha-%2320232a?style=for-the-badge&logo=mocha&logoColor=%238D674)
 
 ### ✨ Calidad de código
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=4B3263)
+![ESLint](https://img.shields.io/badge/ESLint-%2320232a?style=for-the-badge&logo=eslint&logoColor=8083eb)
 ![Prettier](https://img.shields.io/badge/prettier-%2320232a.svg?style=for-the-badge&logo=prettier&logoColor=%23F7B93E)
-![SonarQube](https://img.shields.io/badge/sonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![SonarQube](https://img.shields.io/badge/sonarQube-%2320232a?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
 ### 📊 DevOps y Observabilidad
 ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 ![GitHub](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%23121011)
 ![GitLab](https://img.shields.io/badge/gitlab-%2320232a.svg?style=for-the-badge&logo=gitlab&logoColor=%23181717)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%2320232a.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326ce5)
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
+![Prometheus](https://img.shields.io/badge/prometheus-%2320232a?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/grafana-%2320232a.svg?style=for-the-badge&logo=grafana&logoColor=%23F46800)
 
 ### 📚 Ciencia de Datos
