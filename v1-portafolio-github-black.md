@@ -37,14 +37,14 @@ Soy desarrollador web orientado a la creación de soluciones digitales escalable
 ![Next Js](https://img.shields.io/badge/next_js-%2320232a?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)
 ![Angular.js](https://img.shields.io/badge/angular.js-%2320232a.svg?style=for-the-badge&logo=angularjs&logoColor=%23E23237)
-![Solid Js](https://img.shields.io/badge/solid_js-2c4f7c?style=for-the-badge&logo=solid&logoColor=2c4f7c)
+![Solid Js](https://img.shields.io/badge/solid_js-%2320232a?style=for-the-badge&logo=solid&logoColor=2c4f7c)
 ![Astro](https://img.shields.io/badge/astro-%2320232a.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-%2320232a.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Three Js](https://img.shields.io/badge/three_js-%2320232a?style=for-the-badge&logo=three.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)
 
 ### 🖥️ Backend
-![Node JS](https://img.shields.io/badge/node_js-6DA55F?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Node JS](https://img.shields.io/badge/node_js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![Express.js](https://img.shields.io/badge/express_js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%23404d59)
 ![NestJS](https://img.shields.io/badge/nest_js-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
 ![Laravel](https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%23FF2D20)
