@@ -7,7 +7,8 @@ Software Engineer especializado en autoaprendizaje y adaptabilidad técnica con 
 <div align="center">
   
   ![](https://github-readme-stats.shion.dev/api?username=ariasnahuel23&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-  ![](https://streak-stats.demolab.com/?user=ariasnahuel23&theme=neon&hide_border=false)
+  ![](https://streak-stats.demolab.com/?user=Ariasnahuel23&theme=neon&hide_border=false)
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariasnahuel23&bg_color=%2320232a&color=00EAD3&line=00EAD3&point=FFFFFF&area=true&area_color=00EAD3&hide_border=true"/>
 </div>
 
