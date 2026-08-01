@@ -123,7 +123,7 @@ Software Engineer especializado en autoaprendizaje y adaptabilidad técnica con 
 
 Para consultas laborales, proyectos o colaboraciones, el medio más rápido es el correo electrónico:
 
-➡️ **[Haz clic aquí para redactarme un Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=[TU_EMAIL]&su=Contacto%20profesional)**
+➡️ **[Haz clic aquí para redactarme un Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ariasnahuel2323@gmail.com&su=Quiero%20contactarte%20desde%20github)**
 
 ---
 
