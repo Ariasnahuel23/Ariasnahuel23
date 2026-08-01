@@ -118,7 +118,12 @@ Software Engineer especializado en autoaprendizaje y adaptabilidad técnica con 
 ![Airbnb](https://img.shields.io/badge/airbnb-%2320232a.svg?style=for-the-badge&logo=Airbnb&logoColor=cyan)
 
 ## Social:
-[![email](https://img.shields.io/badge/email-%2320232a?logo=gmail&logoColor=cyan)](mailto:ariasnahuel2323@gmail.com)
+<!-- [📧 Enviarme un correo por Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=[TU_EMAIL]&su=[ASUNTO]&body=[CUERPO_DEL_MENSAJE]) -->
+## 📫 ¿Cómo contactarme?
+
+Para consultas laborales, proyectos o colaboraciones, el medio más rápido es el correo electrónico:
+
+➡️ **[Haz clic aquí para redactarme un Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=[TU_EMAIL]&su=Contacto%20profesional)**
 
 ---
 
